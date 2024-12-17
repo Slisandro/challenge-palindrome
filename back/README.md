@@ -2,4 +2,10 @@
 
 ## Setup
 
-Completar este documento con instrucciones de como instalar y configurar el backend para el reto.
+### Install dependencies 
+
+   npm install / pnpm i
+
+### Run project
+
+   npm run dev / pnpm run dev
