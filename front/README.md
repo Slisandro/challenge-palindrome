@@ -1,10 +1,16 @@
-## Crear archivo .env
+# Frontend for challenge-palindromo
 
-  NEXT_PUBLIC_BACK_URL = http://localhost:8000
+## Setup
 
-## Correr el proyecto
+### Install dependencies 
 
-  Con el comando: 
-    
-    npm run dev / pnpm run dev 
+   npm install / pnpm i
+
+### Create .env file
+
+   NEXT_PUBLIC_BACK_URL = http://localhost:8000
+
+### Run project
+
+   npm run dev / pnpm run dev
 
